@@ -2,8 +2,8 @@
 
 `misc`是aotu.io的静态资源项目，其文件访问网址有下面几个：
 
-- misc.aotu.io
-- o2team.github.io/misc/
+- misc.aotu.io/{github用户名}/{文件名}
+- o2team.github.io/misc/{github用户名}/{文件名}
 - https://cdn.rawgit.com/o2team/misc/gh-pages/{github用户名}/{文件名}
 
 
