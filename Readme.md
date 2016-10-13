@@ -53,7 +53,7 @@
 1. 将`misc`项目签出到本地
 
 ```
-git clone git@github.com:o2team/misc.git
+git clone --depth 1 git@github.com:o2team/misc.git
 ```
 
 2. 在`misc`项目里找到你github用户名对应的目录
