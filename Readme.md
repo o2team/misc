@@ -4,14 +4,12 @@
 
 - misc.aotu.io/{github用户名}/{文件名}
 - o2team.github.io/misc/{github用户名}/{文件名}
-- https://cdn.rawgit.com/o2team/misc/gh-pages/{github用户名}/{文件名}
 
 
 其中,
 
 - `misc.aotu.io`是利用webhook同步到腾讯云的镜像站点，http协议是http2，国内速度最快
 - `o2team.github.io/misc`则是github自己的静态服务器，对应`gh-pages`分支
-- `rawgit` 则是一个第三方的cdn服务。
 
 > 所有博客、其他项目涉及的静态资源(图片、样式、脚本）从`2016年07月16号`开始请使用`misc`。
 
@@ -46,7 +44,7 @@
 2. 找到你github用户名对应的目录
 3. 利用`Upload files` 拖拽上传文件
 
-![upload](https://cdn.rawgit.com/o2team/misc/gh-pages/mamboer/Screen%20Shot%202016-07-16%20at%205.14.23%20PM.png)
+![upload](https://misc.aotu.io/mamboer/Screen%20Shot%202016-07-16%20at%205.14.23%20PM.png)
 
 ### 方法2 - 利用Git命令
 
